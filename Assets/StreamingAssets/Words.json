@@ -1,0 +1,48 @@
+﻿{
+	"Items": [
+        {
+            "Text": "Java",
+            "Points": 10
+        },
+        {
+            "Text": "Python",
+            "Points": 10
+        },
+        
+        {
+            "Text": "C++",
+            "Points": 10
+        }
+        ,
+        
+        {
+            "Text": "Perro",
+            "Points": 0
+        }
+        ,
+        
+        {
+            "Text": "Ruby",
+            "Points": 10
+        }
+        ,
+        
+        {
+            "Text": "Gato",
+            "Points": 0
+        }
+        ,
+        
+        {
+            "Text": "Perl",
+            "Points": 10
+        }
+        ,
+        
+        {
+            "Text": "Scrum",
+            "Points": 0
+        }
+        
+    ]
+}
