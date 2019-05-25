@@ -1,48 +1,89 @@
 ﻿{
 	"Items": [
         {
-            "Text": "Java",
-            "Points": 10
+            "Text": "scrum",
+            "Points": 0
         },
         {
-            "Text": "Python",
-            "Points": 10
+            "Text": ".net",
+            "Points": 0
         },
         
         {
-            "Text": "C++",
-            "Points": 10
+            "Text": "csharp",
+            "Points": 5
         }
         ,
         
         {
-            "Text": "Perro",
+            "Text": "mundo",
             "Points": 0
         }
         ,
         
         {
-            "Text": "Ruby",
-            "Points": 10
+            "Text": "perl",
+            "Points": 5
         }
         ,
         
         {
-            "Text": "Gato",
+            "Text": "casa",
             "Points": 0
         }
         ,
         
         {
-            "Text": "Perl",
-            "Points": 10
+            "Text": "perro",
+            "Points": 0
         }
         ,
         
         {
-            "Text": "Scrum",
+            "Text": "rollback",
             "Points": 0
         }
+        ,
         
+        {
+            "Text": "java",
+            "Points": 5
+        }
+        ,
+        
+        {
+            "Text": "python",
+            "Points": 5
+        }
+        ,
+        
+        {
+            "Text": "linux",
+            "Points": 0
+        }
+        ,
+        
+        {
+            "Text": "ruby",
+            "Points": 5
+        }
+        ,
+        
+        {
+            "Text": "computador",
+            "Points": 0
+        }
+        ,
+        
+        {
+            "Text": "turbo c",
+            "Points": 0
+        }
+        ,
+        
+        {
+            "Text": "javascript",
+            "Points": 0
+        }
     ]
 }
